@@ -1,5 +1,6 @@
 # an example of kaggle application
-I am tryinng to apply different algorithms to solve real world problems provided by Kaggle
+Tryinng to apply different algorithms to solve real world problems provided by Kaggle
+Aiming at finding the most suitable algorithm to provide predictions by applying several methods, namely, gradient descent method, gradient descent with momentum(including heavy ball method and Nesterov’s method), decomposition-type methods(stochastic gradient descent), quasiNewton algorithm(BFGS method) and BB (Barzilai-Borwein) Method (including LBB method and SBB method).
 
 in this example, the database got from: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/data
 
