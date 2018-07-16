@@ -1,4 +1,4 @@
-data = importdata('C:\Users/muxiayi2/Desktop/ie510/normed_data.csv');
+data = importdata('C:\Users/Desktop/ie510/normed_data.csv');
 n = 569;
 d = 26;
 X = data(:,1:d);
