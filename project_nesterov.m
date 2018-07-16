@@ -1,5 +1,5 @@
 %% Set up Problem
-data = importdata('Users/Desktop/sp18/ie510/project/normed_data.csv');
+data = importdata('Users/Desktop/sp18/project/normed_data.csv');
 n = 569;
 d = 26;
 X = data(:,1:d);
@@ -40,5 +40,5 @@ plot(times(1:plot_length), grad_norm(1:plot_length), 'b-');
 xlabel('iteration');
 xlabel('cputime');
 ylabel('Log Gradient Norm');
-title('Nesterov’s');
+title('Nesterovâ€™s');
 
